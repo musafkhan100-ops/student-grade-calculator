@@ -21,3 +21,10 @@ Bug Fixes:
 
 - Fixed the passing-grade boundary.
 - An average of exactly 50 is now considered FAIL.
+
+## v1.1.2 - Patch for 1.1.x
+
+Bug Fixes:
+
+- Fixed the passing-grade boundary.
+- An average of exactly 50 is now considered FAIL.
