@@ -27,3 +27,5 @@ The program displays:
 - Student name
 - Average marks
 - Result (PASS or FAIL)
+
+## Version 1.2.0 - In Development
